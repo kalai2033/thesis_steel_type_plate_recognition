@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: chapters/0_abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: Bibliography.bib
+Warning--empty journal in raka2019ocr
+Warning--there's a number but no volume in yu2017engraving
+You've used 80 entries,
+            1935 wiz_defined-function locations,
+            864 strings with 19601 characters,
+and the built_in function-call counts, 36412 in all, are:
+= -- 3621
+> -- 1717
+< -- 62
++ -- 611
+- -- 598
+* -- 2878
+:= -- 6141
+add.period$ -- 270
+call.type$ -- 80
+change.case$ -- 695
+chr.to.int$ -- 77
+cite$ -- 82
+duplicate$ -- 1461
+empty$ -- 2349
+format.name$ -- 696
+if$ -- 7327
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 65
+newline$ -- 420
+num.names$ -- 240
+pop$ -- 725
+preamble$ -- 1
+purify$ -- 697
+quote$ -- 0
+skip$ -- 1144
+stack$ -- 0
+substring$ -- 2254
+swap$ -- 355
+text.length$ -- 35
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 476
+warning$ -- 2
+while$ -- 273
+width$ -- 0
+write$ -- 1056
+(There were 2 warnings)

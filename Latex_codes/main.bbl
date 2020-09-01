@@ -1,0 +1,510 @@
+\begin{thebibliography}{}
+
+\bibitem[AICompare, 2020]{ocr}
+AICompare (2020).
+\newblock {Optical Character Recognition (OCR) : Which solution to choose?}
+\newblock
+  \url{https://medium.com/@aicompare/optical-character-recognition-ocr-which-solution-to-choose-cd4f829c4e5}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[alexlenail, 2018]{nn}
+alexlenail (2018).
+\newblock Publication-ready nn-architecture schematics.
+\newblock \url{http://alexlenail.me/NN-SVG/index.html}.
+\newblock "Online; accessed 09-July-2020".
+
+\bibitem[Almahairi et~al., 2018]{almahairi2018augmented}
+Almahairi, A., Rajeswar, S., Sordoni, A., Bachman, P., and Courville, A.
+  (2018).
+\newblock Augmented cyclegan: Learning many-to-many mappings from unpaired
+  data.
+\newblock {\em arXiv preprint arXiv:1802.10151}.
+
+\bibitem[Baek et~al., 2019a]{baek2019wrong}
+Baek, J., Kim, G., Lee, J., Park, S., Han, D., Yun, S., Oh, S.~J., and Lee, H.
+  (2019a).
+\newblock What is wrong with scene text recognition model comparisons? dataset
+  and model analysis.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 4715--4723.
+
+\bibitem[Baek et~al., 2019b]{baek2019character}
+Baek, Y., Lee, B., Han, D., Yun, S., and Lee, H. (2019b).
+\newblock Character region awareness for text detection.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 9365--9374.
+
+\bibitem[Borji, 2019]{borji2019pros}
+Borji, A. (2019).
+\newblock Pros and cons of gan evaluation measures.
+\newblock {\em Computer Vision and Image Understanding}, 179:41--65.
+
+\bibitem[Brock et~al., 2018]{brock2018large}
+Brock, A., Donahue, J., and Simonyan, K. (2018).
+\newblock Large scale gan training for high fidelity natural image synthesis.
+\newblock {\em arXiv preprint arXiv:1809.11096}.
+
+\bibitem[Bui et~al., 2017]{bui2017selecting}
+Bui, Q.~A., Mollard, D., and Tabbone, S. (2017).
+\newblock Selecting automatically pre-processing methods to improve ocr
+  performances.
+\newblock In {\em 2017 14th IAPR International Conference on Document Analysis
+  and Recognition (ICDAR)}, volume~1, pages 169--174. IEEE.
+
+\bibitem[Cordts et~al., 2016]{cordts2016cityscapes}
+Cordts, M., Omran, M., Ramos, S., Rehfeld, T., Enzweiler, M., Benenson, R.,
+  Franke, U., Roth, S., and Schiele, B. (2016).
+\newblock The cityscapes dataset for semantic urban scene understanding.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 3213--3223.
+
+\bibitem[Dash et~al., 2017]{dash2017tac}
+Dash, A., Gamboa, J. C.~B., Ahmed, S., Liwicki, M., and Afzal, M.~Z. (2017).
+\newblock Tac-gan-text conditioned auxiliary classifier generative adversarial
+  network.
+\newblock {\em arXiv preprint arXiv:1703.06412}.
+
+\bibitem[Duan et~al., 2005]{duan2005building}
+Duan, T.~D., Du, T.~H., Phuoc, T.~V., and Hoang, N.~V. (2005).
+\newblock Building an automatic vehicle license plate recognition system.
+\newblock In {\em Proc. Int. Conf. Comput. Sci. RIVF}, volume~1, pages 59--63.
+  Citeseer.
+
+\bibitem[Fiore et~al., 2019]{fiore2019using}
+Fiore, U., De~Santis, A., Perla, F., Zanetti, P., and Palmieri, F. (2019).
+\newblock Using generative adversarial networks for improving classification
+  effectiveness in credit card fraud detection.
+\newblock {\em Information Sciences}, 479:448--455.
+
+\bibitem[Frid-Adar et~al., 2018]{frid2018gan}
+Frid-Adar, M., Diamant, I., Klang, E., Amitai, M., Goldberger, J., and
+  Greenspan, H. (2018).
+\newblock Gan-based synthetic medical image augmentation for increased cnn
+  performance in liver lesion classification.
+\newblock {\em Neurocomputing}, 321:321--331.
+
+\bibitem[Girshick et~al., 2014]{girshick2014rich}
+Girshick, R., Donahue, J., Darrell, T., and Malik, J. (2014).
+\newblock Rich feature hierarchies for accurate object detection and semantic
+  segmentation.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 580--587.
+
+\bibitem[Goodfellow et~al., 2016]{Goodfellow-et-al-2016}
+Goodfellow, I., Bengio, Y., and Courville, A. (2016).
+\newblock {\em Deep Learning}.
+\newblock MIT Press.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem[Goodfellow et~al., 2014]{goodfellow2014generative}
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair,
+  S., Courville, A., and Bengio, Y. (2014).
+\newblock Generative adversarial nets.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2672--2680.
+
+\bibitem[Google, 2016]{googleapi}
+Google (2016).
+\newblock {Cloud Vision documentation}.
+\newblock \url{https://cloud.google.com/vision/docs}.
+\newblock "Online; accessed 09-July-2020".
+
+\bibitem[Gupta et~al., 2016]{Gupta16}
+Gupta, A., Vedaldi, A., and Zisserman, A. (2016).
+\newblock Synthetic data for text localisation in natural images.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition}.
+
+\bibitem[Han and Hickman, 2019]{compocrs}
+Han, T. and Hickman, A. (2019).
+\newblock {Our Search for the Best OCR Tool, and What We Found}.
+\newblock \url{https://source.opennews.org/articles/so-many-ocr-options/}.
+\newblock "Online; accessed 09-July-2020".
+
+\bibitem[He et~al., 2016]{he2016deep}
+He, K., Zhang, X., Ren, S., and Sun, J. (2016).
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778.
+
+\bibitem[Heusel et~al., 2017]{heusel2017gans}
+Heusel, M., Ramsauer, H., Unterthiner, T., Nessler, B., and Hochreiter, S.
+  (2017).
+\newblock Gans trained by a two time-scale update rule converge to a local nash
+  equilibrium.
+\newblock In {\em Advances in neural information processing systems}, pages
+  6626--6637.
+
+\bibitem[Hinton et~al., 2012]{hinton2012improving}
+Hinton, G.~E., Srivastava, N., Krizhevsky, A., Sutskever, I., and
+  Salakhutdinov, R.~R. (2012).
+\newblock Improving neural networks by preventing co-adaptation of feature
+  detectors.
+\newblock {\em arXiv preprint arXiv:1207.0580}.
+
+\bibitem[Hosangadi et~al., 2019]{hosangadi2019ocr}
+Hosangadi, R., Adiga, D., and Vyeth, V. (2019).
+\newblock Ocr-friendly image synthesis using generative adversarial networks.
+\newblock In {\em Proceedings of the 2019 8th International Conference on
+  Computing and Pattern Recognition}, pages 226--234.
+
+\bibitem[Hu et~al., 2019]{hu2019embossed}
+Hu, W., Su, Y., and Li, J. (2019).
+\newblock Embossed characters enhancement based on convolutional neural
+  network.
+\newblock In {\em Proceedings of the 2019 International Conference on
+  Artificial Intelligence and Advanced Manufacturing}, pages 1--5.
+
+\bibitem[ICDAR15, 2015]{icdar}
+ICDAR15 (2015).
+\newblock {ICDAR 2015 dataset}.
+\newblock \url{https://rrc.cvc.uab.es/}.
+\newblock "Online; accessed 15-June-2020".
+
+\bibitem[Impedovo, 2012]{impedovo2012fundamentals}
+Impedovo, S. (2012).
+\newblock {\em Fundamentals in handwriting recognition}, volume 124.
+\newblock Springer Science \& Business Media.
+
+\bibitem[Ioffe and Szegedy, 2015]{ioffe2015batch}
+Ioffe, S. and Szegedy, C. (2015).
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock {\em arXiv preprint arXiv:1502.03167}.
+
+\bibitem[Isola et~al., 2017]{isola2017image}
+Isola, P., Zhu, J.-Y., Zhou, T., and Efros, A.~A. (2017).
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition}.
+
+\bibitem[Jadon, 2018]{activation}
+Jadon, S. (2018).
+\newblock {Introduction to Different Activation Functions for Deep Learning}.
+\newblock
+  \url{https://medium.com/@shrutijadon10104776/survey-on-activation-functions-for-deep-learning-9689331ba092}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[Jin et~al., 2017]{jin2017towards}
+Jin, Y., Zhang, J., Li, M., Tian, Y., Zhu, H., and Fang, Z. (2017).
+\newblock Towards the automatic anime characters creation with generative
+  adversarial networks.
+\newblock {\em arXiv preprint arXiv:1708.05509}.
+
+\bibitem[Johnson et~al., 2016]{johnson2016perceptual}
+Johnson, J., Alahi, A., and Fei-Fei, L. (2016).
+\newblock Perceptual losses for real-time style transfer and super-resolution.
+\newblock In {\em European conference on computer vision}, pages 694--711.
+  Springer.
+
+\bibitem[Karimi et~al., 2020]{karimi2020illegible}
+Karimi, M., Veni, G., and Yu, Y.-Y. (2020).
+\newblock Illegible text to readable text: An image-to-image transformation
+  using conditional sliced wasserstein adversarial networks.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition Workshops}, pages 552--553.
+
+\bibitem[Karras et~al., 2017]{karras2017progressive}
+Karras, T., Aila, T., Laine, S., and Lehtinen, J. (2017).
+\newblock Progressive growing of gans for improved quality, stability, and
+  variation.
+\newblock {\em arXiv preprint arXiv:1710.10196}.
+
+\bibitem[Kingma and Ba, 2014]{kingma2014adam}
+Kingma, D.~P. and Ba, J. (2014).
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}.
+
+\bibitem[Laroca et~al., 2018]{laroca2018robust}
+Laroca, R., Severo, E., Zanlorensi, L.~A., Oliveira, L.~S., Gon{\c{c}}alves,
+  G.~R., Schwartz, W.~R., and Menotti, D. (2018).
+\newblock A robust real-time automatic license plate recognition based on the
+  yolo detector.
+\newblock In {\em 2018 International Joint Conference on Neural Networks
+  (IJCNN)}, pages 1--10. IEEE.
+
+\bibitem[Lat and Jawahar, 2018]{lat2018enhancing}
+Lat, A. and Jawahar, C. (2018).
+\newblock Enhancing ocr accuracy with super resolution.
+\newblock In {\em 2018 24th International Conference on Pattern Recognition
+  (ICPR)}, pages 3162--3167. IEEE.
+
+\bibitem[LeCun et~al., 2015]{lecun2015deep}
+LeCun, Y., Bengio, Y., and Hinton, G. (2015).
+\newblock Deep learning.
+\newblock {\em nature}, 521(7553):436--444.
+
+\bibitem[Lee, 2019]{craft}
+Lee, H. (2019).
+\newblock {The CRAFT process}.
+\newblock \url{https://www.youtube.com/watch?v=HI8MzpY8KMI}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[Li and Wand, 2016]{li2016precomputed}
+Li, C. and Wand, M. (2016).
+\newblock Precomputed real-time texture synthesis with markovian generative
+  adversarial networks.
+\newblock In {\em European conference on computer vision}, pages 702--716.
+  Springer.
+
+\bibitem[Mathworks, 2020]{gans}
+Mathworks (2020).
+\newblock {Train Conditional Generative Adversarial Network (CGAN)}.
+\newblock
+  \url{https://de.mathworks.com/help/deeplearning/ug/train-conditional-generative-adversarial-network.html}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[Milewski and Govindaraju, 2006]{milewski2006extraction}
+Milewski, R. and Govindaraju, V. (2006).
+\newblock Extraction of handwritten text from carbon copy medical form images.
+\newblock In {\em International Workshop on Document Analysis Systems}, pages
+  106--116. Springer.
+
+\bibitem[Mittal, 2019]{resnet}
+Mittal, A. (2019).
+\newblock Introduction to u-net and res-net for image segmentation.
+\newblock
+  \url{https://towardsdatascience.com/introduction-to-u-net-and-res-net-for-image-segmentation-9afcb432ee2f}.
+\newblock "Online; accessed 09-June-2020".
+
+\bibitem[Miyato et~al., 2018]{miyato2018spectral}
+Miyato, T., Kataoka, T., Koyama, M., and Yoshida, Y. (2018).
+\newblock Spectral normalization for generative adversarial networks.
+\newblock {\em arXiv preprint arXiv:1802.05957}.
+
+\bibitem[Moutarde, 2018]{cnneqn}
+Moutarde, F. (2018).
+\newblock {convnet-notebook.html}.
+\newblock
+  \url{http://perso.mines-paristech.fr/fabien.moutarde/ES_MachineLearning/TP_convNets/convnet-notebook.html}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[MSRA-TD500, 2012]{msra}
+MSRA-TD500 (2012).
+\newblock {MSRA-Text Detection 500 dataset}.
+\newblock
+  \url{http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500)}.
+\newblock "Online; accessed 15-June-2020".
+
+\bibitem[Nagaoka et~al., 2017]{nagaoka2017text}
+Nagaoka, Y., Miyazaki, T., Sugaya, Y., and Omachi, S. (2017).
+\newblock Text detection by faster r-cnn with multiple region proposal
+  networks.
+\newblock In {\em 2017 14th IAPR International Conference on Document Analysis
+  and Recognition (ICDAR)}, volume~6, pages 15--20. IEEE.
+
+\bibitem[Nov{\'a}k et~al., 2013]{novak2013recognition}
+Nov{\'a}k, V., Hurt{\'\i}k, P., and Habiballa, H. (2013).
+\newblock Recognition of distorted characters printed on metal using fuzzy
+  logic methods.
+\newblock In {\em 2013 Joint IFSA World Congress and NAFIPS Annual Meeting
+  (IFSA/NAFIPS)}, pages 733--738. IEEE.
+
+\bibitem[Patil and Dhanvijay, 2015]{patil2015engraved}
+Patil, A.~V. and Dhanvijay, M.~M. (2015).
+\newblock Engraved character recognition using computer vision to recognize
+  engine and chassis numbers: Computer vision technique to identify engraved
+  numbers.
+\newblock In {\em 2015 International Conference on Information Processing
+  (ICIP)}, pages 151--154. IEEE.
+
+\bibitem[Raka and Agrawal, 2019]{raka2019ocr}
+Raka, P. and Agrawal, S.~P. (2019).
+\newblock Ocr to read embossed text from credit/debit card.
+
+\bibitem[Reed et~al., 2016a]{reed2016generative}
+Reed, S., Akata, Z., Yan, X., Logeswaran, L., Schiele, B., and Lee, H. (2016a).
+\newblock Generative adversarial text to image synthesis.
+\newblock {\em arXiv preprint arXiv:1605.05396}.
+
+\bibitem[Reed et~al., 2016b]{reed2016learning}
+Reed, S.~E., Akata, Z., Mohan, S., Tenka, S., Schiele, B., and Lee, H. (2016b).
+\newblock Learning what and where to draw.
+\newblock In {\em Advances in neural information processing systems}, pages
+  217--225.
+
+\bibitem[Ronneberger et~al., 2015]{ronneberger2015u}
+Ronneberger, O., Fischer, P., and Brox, T. (2015).
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em International Conference on Medical image computing and
+  computer-assisted intervention}, pages 234--241. Springer.
+
+\bibitem[Roy, 2020]{aidlml}
+Roy, R. (2020).
+\newblock {AI, ML, and DL: How not to get them mixed!}
+\newblock
+  \url{https://towardsdatascience.com/understanding-the-difference-between-ai-ml-and-dl-cceb63252a6c}.
+\newblock "Online; accessed 19-July-2020".
+
+\bibitem[Russakovsky et~al., 2015]{russakovsky2015imagenet}
+Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., Huang, Z.,
+  Karpathy, A., Khosla, A., Bernstein, M., et~al. (2015).
+\newblock Imagenet large scale visual recognition challenge.
+\newblock {\em International journal of computer vision}, 115(3):211--252.
+
+\bibitem[Saha, 2018]{cnn}
+Saha, S. (2018).
+\newblock {A Comprehensive Guide to Convolutional Neural Networks — the ELI5
+  way}.
+\newblock
+  \url{https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[Salimans et~al., 2016]{salimans2016improved}
+Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., and Chen,
+  X. (2016).
+\newblock Improved techniques for training gans.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2234--2242.
+
+\bibitem[Saxena, 2017]{neuron}
+Saxena, S. (2017).
+\newblock {Artificial Neuron Networks(Basics) | Introduction to Neural
+  Networks}.
+\newblock
+  \url{http://becominghuman.ai/artificial-neuron-networks-basics-introduction-to-neural-networks-3082f1dcca8c}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[Shi et~al., 2017]{shi2017detecting}
+Shi, B., Bai, X., and Belongie, S. (2017).
+\newblock Detecting oriented text in natural images by linking segments.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 2550--2558.
+
+\bibitem[Simonyan and Zisserman, 2014]{simonyan2014very}
+Simonyan, K. and Zisserman, A. (2014).
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}.
+
+\bibitem[Srivastava et~al., 2014]{srivastava2014dropout}
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., and Salakhutdinov,
+  R. (2014).
+\newblock Dropout: a simple way to prevent neural networks from overfitting.
+\newblock {\em The journal of machine learning research}, 15(1):1929--1958.
+
+\bibitem[Stoller, 2020]{factgit}
+Stoller, D. (2020).
+\newblock {Architecture of Factor GAN}.
+\newblock \url{https://github.com/f90/FactorGAN}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[Stoller et~al., 2019]{stoller2019training}
+Stoller, D., Ewert, S., and Dixon, S. (2019).
+\newblock Training generative adversarial networks from incomplete observations
+  using factorised discriminators.
+\newblock {\em arXiv preprint arXiv:1905.12660}.
+
+\bibitem[Tian et~al., 2016]{tian2016detecting}
+Tian, Z., Huang, W., He, T., He, P., and Qiao, Y. (2016).
+\newblock Detecting text in natural image with connectionist text proposal
+  network.
+\newblock In {\em European conference on computer vision}, pages 56--72.
+  Springer.
+
+\bibitem[Tian et~al., 2019]{tian2019learning}
+Tian, Z., Shu, M., Lyu, P., Li, R., Zhou, C., Shen, X., and Jia, J. (2019).
+\newblock Learning shape-aware embedding for scene text detection.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 4234--4243.
+
+\bibitem[Tripathy et~al., 2018]{tripathy2018learning}
+Tripathy, S., Kannala, J., and Rahtu, E. (2018).
+\newblock Learning image-to-image translation using paired and unpaired
+  training samples.
+\newblock In {\em Asian Conference on Computer Vision}, pages 51--66. Springer.
+
+\bibitem[Ulyanov et~al., 2016]{ulyanov2016instance}
+Ulyanov, D., Vedaldi, A., and Lempitsky, V. (2016).
+\newblock Instance normalization: The missing ingredient for fast stylization.
+\newblock {\em arXiv preprint arXiv:1607.08022}.
+
+\bibitem[Vallecorsa, 2017]{gandist}
+Vallecorsa, S. (2017).
+\newblock {Detector Simulation and Machine Learning }.
+\newblock
+  \url{https://indico.cern.ch/event/659928/contributions/2691911/attachments/1508729/2351970/DetSim_MachineLearning.pdf}.
+\newblock "Slide no 13; accessed 07-June-2020".
+
+\bibitem[Vo, 2018]{convolution}
+Vo, A. (2018).
+\newblock {Deep Learning – Computer Vision and Convolutional Neural
+  Networks}.
+\newblock
+  \url{https://anhvnn.wordpress.com/2018/02/01/deep-learning-computer-vision-and-convolutional-neural-networks/}.
+\newblock "Online; accessed 07-June-2020".
+
+\bibitem[Wang et~al., 2019a]{wang2019shape}
+Wang, W., Xie, E., Li, X., Hou, W., Lu, T., Yu, G., and Shao, S. (2019a).
+\newblock Shape robust text detection with progressive scale expansion network.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 9336--9345.
+
+\bibitem[Wang et~al., 2019b]{wang2019arbitrary}
+Wang, X., Jiang, Y., Luo, Z., Liu, C.-L., Choi, H., and Kim, S. (2019b).
+\newblock Arbitrary shape scene text detection with adaptive text region
+  representation.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 6449--6458.
+
+\bibitem[Wang et~al., 2004]{wang2004image}
+Wang, Z., Bovik, A.~C., Sheikh, H.~R., and Simoncelli, E.~P. (2004).
+\newblock Image quality assessment: from error visibility to structural
+  similarity.
+\newblock {\em IEEE transactions on image processing}, 13(4):600--612.
+
+\bibitem[Xiang et~al., 2018]{xiang2018metal}
+Xiang, Z., You, Z., Qian, M., Zhang, J., and Hu, X. (2018).
+\newblock Metal stamping character recognition algorithm based on
+  multi-directional illumination image fusion enhancement technology.
+\newblock {\em EURASIP Journal on Image and Video Processing}, 2018(1):80.
+
+\bibitem[Yang et~al., 2018]{yang2018mri}
+Yang, Q., Li, N., Zhao, Z., Fan, X., Chang, E.~I., Xu, Y., et~al. (2018).
+\newblock Mri cross-modality neuroimage-to-neuroimage translation.
+\newblock {\em arXiv preprint arXiv:1801.06940}.
+
+\bibitem[YU et~al., 2017]{yu2017engraving}
+YU, W., WU, Z., LIU, H., CHEN, Q., DUAN, X., MO, J., TONG, J., LIAO, F., and
+  LIN, Q. (2017).
+\newblock An engraving character recognition system based on machine vision.
+\newblock {\em DEStech Transactions on Computer Science and Engineering},
+  (aiea).
+
+\bibitem[Yuan et~al., 2019]{yuan2019ctw}
+Yuan, T., Zhu, Z., Xu, K., Li, C., Mu, T., and Hu, S. (2019).
+\newblock A large chinese text dataset in the wild.
+\newblock {\em Journal of Computer Science and Technology}, 34(3):509--521.
+
+\bibitem[Zang et~al., 2015]{zang2015vehicle}
+Zang, D., Chai, Z., Zhang, J., Zhang, D., and Cheng, J. (2015).
+\newblock Vehicle license plate recognition using visual attention model and
+  deep learning.
+\newblock {\em Journal of Electronic Imaging}, 24(3):033001.
+
+\bibitem[Zhang et~al., 2017]{zhang2017stackgan}
+Zhang, H., Xu, T., Li, H., Zhang, S., Wang, X., Huang, X., and Metaxas, D.~N.
+  (2017).
+\newblock Stackgan: Text to photo-realistic image synthesis with stacked
+  generative adversarial networks.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 5907--5915.
+
+\bibitem[Zhong et~al., 2019]{zhong2019anchor}
+Zhong, Z., Sun, L., and Huo, Q. (2019).
+\newblock An anchor-free region proposal network for faster r-cnn-based text
+  detection approaches.
+\newblock {\em International Journal on Document Analysis and Recognition
+  (IJDAR)}, 22(3):315--327.
+
+\bibitem[Zhou et~al., 2017]{zhou2017east}
+Zhou, X., Yao, C., Wen, H., Wang, Y., Zhou, S., He, W., and Liang, J. (2017).
+\newblock East: an efficient and accurate scene text detector.
+\newblock In {\em Proceedings of the IEEE conference on Computer Vision and
+  Pattern Recognition}, pages 5551--5560.
+
+\bibitem[Zhu et~al., 2017]{CycleGAN2017}
+Zhu, J.-Y., Park, T., Isola, P., and Efros, A.~A. (2017).
+\newblock Unpaired image-to-image translation using cycle-consistent
+  adversarial networks.
+\newblock In {\em Computer Vision (ICCV), 2017 IEEE International Conference
+  on}.
+
+\end{thebibliography}

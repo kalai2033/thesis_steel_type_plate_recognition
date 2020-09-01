@@ -1,0 +1,81 @@
+%% Creator: Inkscape 1.0 (4035a4fb49, 2020-05-01), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'ssim_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{360.74999098bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.5997921)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{ssim_svg-tex.pdf}}%
+    \put(0.25304227,0.46620929){\color[rgb]{0.49803922,0.49803922,0.49803922}\rotatebox{90.00000252}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.8\end{tabular}}}}}%
+    \put(0.45980596,0.44638947){\color[rgb]{0.49803922,0.49803922,0.49803922}\rotatebox{90.00000252}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.79\end{tabular}}}}}%
+    \put(0.66659737,0.24480942){\color[rgb]{0.49803922,0.49803922,0.49803922}\rotatebox{90.00000252}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.69\end{tabular}}}}}%
+    \put(0.87327789,0.34559945){\color[rgb]{0.49803922,0.49803922,0.49803922}\rotatebox{90.00000252}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.74\end{tabular}}}}}%
+    \put(0.07455301,0.07973666){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.62\end{tabular}}}}%
+    \put(0.07455301,0.1200693){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.64\end{tabular}}}}%
+    \put(0.07455301,0.16031878){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.66\end{tabular}}}}%
+    \put(0.07455301,0.2006237){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.68\end{tabular}}}}%
+    \put(0.08719335,0.24092862){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.7\end{tabular}}}}%
+    \put(0.07455301,0.28126126){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.72\end{tabular}}}}%
+    \put(0.07455301,0.32156618){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.74\end{tabular}}}}%
+    \put(0.07455301,0.36189882){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.76\end{tabular}}}}%
+    \put(0.07455301,0.4021483){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.78\end{tabular}}}}%
+    \put(0.08719335,0.44245322){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.8\end{tabular}}}}%
+    \put(0.07455301,0.48275814){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.82\end{tabular}}}}%
+    \put(0.19981982,0.05173943){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PIX2PIX\end{tabular}}}}%
+    \put(0.37065835,0.05173943){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PIX2PIX WITH \end{tabular}}}}%
+    \put(0.35203049,0.02504505){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SYNTHETIC DATA\end{tabular}}}}%
+    \put(0.59807346,0.05173943){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CYCLEGAN\end{tabular}}}}%
+    \put(0.79410949,0.05173943){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}FACTORGAN\end{tabular}}}}%
+    \put(0.0486736,0.22363132){\color[rgb]{0.34901961,0.34901961,0.34901961}\rotatebox{90.00000252}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SSIM SCORE\end{tabular}}}}}%
+    \put(0.44672211,0.53697852){\color[rgb]{0.34901961,0.34901961,0.34901961}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{S}\textbf{S}\textbf{I}\textbf{M}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{ssim_svg-tex.pdf}}%
+  \end{picture}%
+\endgroup%

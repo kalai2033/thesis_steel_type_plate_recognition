@@ -1,0 +1,18 @@
+\babel@toc {UKenglish}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Architecture of pix2pix generator\relax }}{29}{table.caption.33}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Architecture of pix2pix discriminator\relax }}{30}{table.caption.35}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Architecture of CycleGAN generator\relax }}{33}{table.caption.39}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Architecture of CycleGAN discriminator\relax }}{34}{table.caption.41}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Architecture of FactorGAN generator\relax }}{37}{table.caption.45}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Architecture of FactorGAN discriminator\relax }}{38}{table.caption.47}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Comparison of image-to-image translation GANs under study\relax }}{39}{table.caption.48}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Best parameter setting used in the experiments for each GAN\relax }}{46}{table.caption.53}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Character recognition with and without GAN using Google Vision OCR engine\relax }}{63}{table.caption.68}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Character recognition with and without GAN using the proposed OCR engine\relax }}{64}{table.caption.70}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Comparison of impact of GAN on both OCR engines\relax }}{66}{table.caption.72}%
+\addvspace {10\p@ }

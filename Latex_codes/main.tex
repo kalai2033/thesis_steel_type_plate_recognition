@@ -1,0 +1,233 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath} % Mathematische Symbole
+\usepackage{amssymb} % Mathematische Symbole
+\usepackage{graphicx} % Bilder einfügen
+\usepackage{subcaption}
+\usepackage{verbatim}
+\usepackage{mathtools}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage[titlenumbered,ruled,linesnumbered]{algorithm2e}
+\usepackage{todonotes}
+\usepackage{booktabs}
+\usepackage[UKenglish]{babel}
+\usepackage{float}
+\usepackage{epstopdf}
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+\hypersetup{
+    citecolor=black,
+    filecolor=black,
+    linkcolor=green,
+    urlcolor=black
+}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{adjustbox}
+\usepackage{textcomp}
+\usepackage{flexisym}
+\usepackage{listings}
+\usepackage{enumerate}
+\usepackage{color}
+\usepackage[abbreviations,symbols,nogroupskip,nonumberlist]{glossaries-extra}
+\usepackage{setspace}
+\usepackage{babel,blindtext}
+\usepackage[nottoc]{tocbibind}
+\usepackage{breakcites}
+\usepackage[round]{natbib}
+\setcitestyle{square}
+%\singlespacing
+\makeglossaries[abbreviations]
+\newabbreviation{ai}{AI}{Artificial Intelligence}
+\newabbreviation{ocr}{OCR}{Optical Character Recognition}
+\newabbreviation{gan}{GAN}{Generative Adversarial Network}
+\newabbreviation{ssim}{SSIM}{Structural Similarity Index Measure}
+\newabbreviation{fid}{FID}{Frechet Inception Distance}
+\newabbreviation{mse}{MSE}{Mean Square Error}
+\newabbreviation{mae}{MAE}{Mean Absolute Error}
+\newabbreviation{psnr}{PSNR}{Peak Signal to Noise Ratio}
+\newabbreviation{rpm}{RPM}{Revolutions Per Minute}
+\newabbreviation{ml}{ML}{Machine Learning}
+\newabbreviation{relu}{ReLU}{Rectified Linear Unit}
+\newabbreviation{cnn}{CNN}{Convolution Neural Network}
+\newabbreviation{gpu}{GPU}{Graphics Processing Units}
+\newabbreviation{hp}{HP}{Horse Power}
+\newabbreviation{dl}{DL}{Deep Learning}
+\newabbreviation{rnn}{RNN}{Recurrent Neural Network}
+\newabbreviation{ctpn}{CTPN}{Connectionist Text Proposal Network}
+\newabbreviation{east}{EAST}{Efficient and Accurate Scene Text Detector}
+\newabbreviation{pse}{PSENet}{Progressive Scale Expansion Network}
+\newabbreviation{roi}{ROI}{Region Of Interest}
+\newabbreviation{adam}{ADAM}{Adaptive Moment Estimation}
+\newabbreviation{ann}{ANN}{Artificial Neural Network}
+\newabbreviation{lstm}{LSTM}{Long Short Term Memory}
+\newabbreviation{craft}{CRAFT}{Character Region Awareness For Text detection}
+\newabbreviation{se}{SE}{Squeeze and Excitation Network}
+\newabbreviation{ssd}{SSD}{Single Shot Detector}
+\newabbreviation{msc}{MSC}{Metal Stamping Character}
+\newabbreviation{tps}{TPS}{Thin Plate Spline transformation}
+\newabbreviation{ctc}{CTC}{Connectionist Temporal Classification}
+\newabbreviation{stn}{STN}{Spatial Transformation Network}
+\newabbreviation{api}{API}{Application Programming Interface}
+\newabbreviation{knn}{KNN}{K - Nearest Neighbour}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{frame=tb,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+%opening
+\setlength{\marginparwidth}{2cm}
+\begin{document}
+\pagenumbering{roman}
+%----------------------------------------------------------------------------------------
+% Title Page starting here
+%----------------------------------------------------------------------------------------
+\begin{titlepage}
+
+\center % Center everything on the page
+
+%----------------------------------------------------------------------------------------
+% LOGO SECTION
+%----------------------------------------------------------------------------------------
+
+% \includegraphics{logoUHi.jpg}\\[1cm] % Include a department/university logo - this will require the graphicx package
+\vspace{-1cm}
+\includegraphics[width=4cm]{logoUHi.jpg}
+\vspace{1cm}
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+% TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+{ \Large \bfseries Improving Character Recognition Of Engraved/Embossed Steel Type Plates Using Generative Adversarial Network (GAN) Generated Image}\\  % Title of your document
+\vspace{1cm}
+% \HRule \\[1.5cm]
+
+%----------------------------------------------------------------------------------------
+% AUTHOR SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}{0.34\textwidth}
+\begin{flushleft} \large
+\vspace{1cm}
+\emph{Author:}\\
+\mbox{Kalaiselvan \textsc{Panneerselvam}} \\ % % Name of the student
+278920 \\ % Your maticulation number
+\end{flushleft}
+\end{minipage}
+~
+\begin{minipage}{0.61\textwidth}
+\begin{flushright} \large
+\emph{Supervisors:} \\
+Prof. Dr. Dr. Lars \textsc{Schmidt-Thieme}\\ % 1st Supervisor's Name
+Lukas \textsc{Brinkmeyer}\\ % 2nd Supervisor's Name
+\emph{External Supervisor:} \\
+Thomas \textsc{Kessler}\\
+Genie Enterprise Inc
+\end{flushright}
+\end{minipage}\\
+\vspace{2cm}
+
+%----------------------------------------------------------------------------------------
+% DATE SECTION
+%----------------------------------------------------------------------------------------
+
+{ \today}\\ % Date, change the \today to a set date if you want to be precise
+\vspace{1cm}
+%----------------------------------------------------------------------------------------
+% University Section
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+% HEADING SECTIONS
+%----------------------------------------------------------------------------------------
+{ \large \bfseries Thesis submited for}\\  % Title of your document
+\vspace{0.3cm}
+\textsc{\Large Master of Science in Data Analytics}\\% Major heading such as course name
+\vspace{1cm}
+\textsc{\large Wirtschaftsinformatik und Maschinelles Lernen}\\ % Name of your university/college
+\vspace{0.3cm}
+\textsc{\large Stiftung Universität Hildesheim}\\ % Name of your university/college
+\vspace{0.3cm}
+\textsc{\large Universitatsplätz 1, 31141 Hildesheim}\\ % Name of your university/college
+\vspace{0.3cm}
+
+
+\vfill % Fill the rest of the page with whitespace
+
+\end{titlepage}
+%----------------------------------------------------------------------------------------
+% Title Page ends
+%----------------------------------------------------------------------------------------
+
+
+\setcounter{secnumdepth}{1}
+
+%----------------------------------------------------------------------------------------
+% Statement of the sole authorship starts
+%----------------------------------------------------------------------------------------
+
+\noindent \textbf{Statement as to the sole authorship of the thesis:}
+\vspace{0.4cm}
+\\\textit{Improving Character Recognition Of Engraved/Embossed Steel Type Plates Using Generative Adversarial Network (GAN) Generated Image}. \\
+\vspace{1cm}
+
+	
+	
+	
+	I hereby certify that the master's thesis named above was solely written by me and that no assistance was used other than that cited. The passages in this thesis that were taken verbatim or with the same sense as that of other works have been identified in each individual case by the citation of the source or the origin, including the secondary sources used. This also applies for drawings. sketches, illustration as well as internet sources and other collections of electronic texts or data, etc. The submitted thesis has not been previously used for the fulfilment of a degree requirements and has not been published in English or any other language. I am aware of the fact that false declarations will be treated as fraud.
+\vspace{7cm}
+
+Date, City Signature
+
+\thispagestyle{empty}
+%----------------------------------------------------------------------------------------
+% Statement of the sole authorship ends
+%----------------------------------------------------------------------------------------
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+\newpage
+\include{chapters/0_abstract}
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+\listoftables
+\newpage
+\printglossary[type=abbreviations,,title={List of Abbreviations}]
+\clearpage
+\setstretch{1.25}
+\pagenumbering{arabic}
+\input{chapters/1_introduction.tex}
+\newpage
+\input{chapters/2_literature_review.tex}
+\newpage
+\input{chapters/3_methodology}
+\newpage
+\input{chapters/4_experiment}
+\newpage
+\input{chapters/5_results & discussion}
+\newpage
+\input{chapters/6_conclusion}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\pagenumbering{gobble}
+%\input{sections/references}
+\bibliographystyle{apalike}
+\bibliography{Bibliography} 
+\end{document}

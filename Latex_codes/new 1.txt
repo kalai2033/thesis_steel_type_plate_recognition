@@ -1,0 +1,6 @@
+\begin{figure}[htbp]
+  \centering
+  \includesvg{n}
+  \caption{Experimental results for SSIM}
+  \label{fig:ssim}
+\end{figure}

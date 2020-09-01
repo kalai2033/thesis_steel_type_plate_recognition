@@ -1,0 +1,32 @@
+\chapter{Conclusion}\label{ch:conclusion}
+This chapter concludes the thesis with the contributions of the work with final comments on the results from the previous chapter. Also, we have addressed the limitations and the scope for future work.
+
+\section{Summary}
+The goal of the thesis is to investigate the use of the image-to-image translation GANs in improving the character recognition accuracy of steel type plate images. A framework has been introduced in this thesis to create a synthetic dataset of steel type plates along with its label pair to supplement the original dataset. We have studied three different image-to-image translation GAN approaches for translating the images of unclear steel type plates into clear images. These GAN models are evaluated both using the quantitative and qualitative metrics. After evaluation, it is found that the pix2pix generator works best. Thus the overall framework consists of pix2pix generator integrated with the OCR engine. The following are the answers to the research questions stated in this thesis:
+
+\begin{enumerate}
+\item \textit{Can an image-to-image translation GAN be used to improve the accuracy of character recognition for the images of weathered steel type plates?}
+
+Yes. From the experimental results of the thesis, it has been proved that image-to-image translation GAN models can be used for improving the accuracy of the OCR engines. For even the benchmark commercial OCR engine like Google Vision, our model has improved the character recognition of steel type plates by 25.39 \% measured in terms of OCR score. Similarly, for the proposed OCR engine, the score has been massively increased by almost 37 \% after using GAN.
+
+\item \textit{Can the findings of \citeauthor{CycleGAN2017} and \citeauthor{stoller2019training} be used to make up for the few image pairs in the steel type plate dataset?}
+
+No, the experimental results show that the techniques of \citeauthor{CycleGAN2017}'s unpaired dataset and \citeauthor{stoller2019training} training incomplete data points did not work well for our steel type plate dataset. Generally, the success of any deep neural networks depends heavily on the size of the dataset used for training. Our training dataset has a size of 366 image pairs. To tackle this problem of the dataset with fewer data points, various techniques such as data augmentation, random cropping of the input to a smaller size (256 x 256) than the load size (600 x 400) for each epoch during training are employed. Besides, a framework to generate a synthetic dataset has been introduced to supplement the original dataset. Even though the number of image pairs present in the training set was sufficient enough to train the image-to-image GAN models successfully, more image pairs can still produce a more robust generator model. Notably, the pix2pix model without any data augmentation techniques produced splendid results just with approximately 150 - 200 image pairs.
+
+\item \textit{How to evaluate the three different image-to-image translation GAN models under the scope of the thesis and choose the optimal model for the proposed steel type plate recognition system?}
+
+We have chosen the best GAN using both quantitative and qualitative evaluations. Metrics such as FID, SSIM and MSE are used for the quantitative measure while a manual inspection is used for qualitative measure. From the experimental results, the optimal GAN model was found out to be pix2pix.
+
+
+\item \textit{How good is the proposed OCR engine compared to a commercial OCR engine like Google Vision? How can the performance of the overall framework be measured?}
+
+We have compared the proposed OCR engine with one of the benchmark OCR engines like Google Vision. We have introduced a metric called OCR score for measuring the performance of the OCR engine. It is found that character recognition is improved by 20 \% for both OCR engines when using the translated images. Likewise, after using GAN, the OCR score for Google vision OCR has been increased from 67 \% to 84 \% and for the proposed OCR engine, it is increased from 62 \% to 84 \%.
+
+\end{enumerate}
+
+\section{Limitations}
+The main limitation of training any image-to-image translation model is the availability of data pairs. In our thesis, we used a small dataset of less than 400 image pairs. The current practice of manually annotating the images and creating a label pair is more time consuming and costly. Even the framework for generating synthetic steel type plate images is limited to the dictionary pool of manually cropped patches. Also, manually generated labels lack uniformity and have a high human bias.   
+
+\section{Future works}
+	Till now, there has been only a little work done in using GANs for OCR. The use of GANs in OCR has great potential and has scope for several promising applications like our steel type plate recognition. As future work, the overall system can be modified such that the model learns the loss function based on the output of the OCR engine directly as a combined loss instead of training image-to-image translation and OCR engine separately.
+

@@ -1,0 +1,48 @@
+\babel@toc {UKenglish}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A sample steel type plate/nameplate image\relax }}{2}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Weathered steel type plates under different lighting conditions\relax }}{3}{figure.caption.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces DL vs ML vs AI}}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A simple neural network}}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Components of a neuron}}{9}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Different activation functions}}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Effect of dropout}}{12}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces A CNN for MNIST handwritten recognition}}{13}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Convolution operation}}{13}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Pooling operation}}{14}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Batch normalization algorithm}}{15}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Generative Adversarial Network (GAN)}}{17}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Illustration of GAN learning to map uniform noise to the Gaussian distribution}}{17}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Conditional GAN}}{18}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Optical Character Recognition}}{19}{figure.caption.29}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Architecture of pix2pix}}{27}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Difference between residual block (left) vs ordinary CNN (right) connections}}{28}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Paired \& unpaired datasets}}{31}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Architecture of CycleGAN}}{32}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Architecture of FactorGAN}}{36}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Architecture of U-Net}}{37}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The process of CRAFT}}{40}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The CRAFT architecture}}{41}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Text recognition framework}}{42}{figure.caption.51}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces (a) The overall framework (b) The proposed OCR \relax }}{44}{figure.caption.52}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces RGB to Grayscale conversion\relax }}{48}{figure.caption.54}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Annotated image\relax }}{49}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The resulting image with better constrast between text and background\relax }}{49}{figure.caption.56}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces A steel type plate image with its input and output pair\relax }}{50}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces A sample template image\relax }}{50}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Sample image pairs in the dictionary pool\relax }}{51}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces A synthetic image with its input and output pair\relax }}{51}{figure.caption.60}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Experimental results for FID\relax }}{56}{figure.caption.62}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Experimental results for SSIM\relax }}{57}{figure.caption.63}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Experimental results for MSE\relax }}{58}{figure.caption.64}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Test result: Sample 1\relax }}{59}{figure.caption.65}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Test result: Sample 2\relax }}{60}{figure.caption.66}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Test result: Sample 3\relax }}{61}{figure.caption.67}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Evaluation of character recognition using Google Vision\relax }}{63}{figure.caption.69}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Evaluation of character recognition using the proposed OCR engine\relax }}{65}{figure.caption.71}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Comparison of impact of GAN on both OCR engines\relax }}{66}{figure.caption.73}%
+\addvspace {10\p@ }

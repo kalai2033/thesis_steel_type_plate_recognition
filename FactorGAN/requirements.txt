@@ -1,0 +1,14 @@
+imageio
+seaborn
+pandas
+matplotlib
+soundfile
+scipy
+museval
+musdb
+librosa
+numpy
+tensorboard
+torchvision==0.5.0
+torch==1.4.0
+tqdm

@@ -1,0 +1,63 @@
+\babel@toc {UKenglish}{}
+\contentsline {chapter}{List of Figures}{iii}{chapter*.2}%
+\contentsline {chapter}{List of Tables}{v}{chapter*.3}%
+\contentsline {chapter}{List of Abbreviations}{vi}{section*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Aim}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Research questions}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Contributions}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Thesis outline}{5}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Theory and related work}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to deep learning}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Neural networks}{8}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Loss function and optimizer}{10}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Backpropagation}{11}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Hyperparameters}{11}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Convolution Neural Networks}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Generative Adversarial Networks}{16}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Conditional GANs}{18}{section.2.4}%
+\contentsline {section}{\numberline {2.5}OCR}{19}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Related works}{20}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}General OCR}{20}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}OCR for steel type plates}{22}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}GANs in OCR}{24}{subsection.2.6.3}%
+\contentsline {chapter}{\numberline {3}Methodology}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Pix2pix GAN}{26}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Architecture}{27}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Loss function}{30}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}CycleGAN}{31}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Architecture}{31}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Loss function}{34}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}FactorGAN}{35}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Architecture}{36}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Objective function}{38}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Comparison of image-to-image translation GANs under study}{39}{section.3.4}%
+\contentsline {section}{\numberline {3.5}OCR - Text detection}{40}{section.3.5}%
+\contentsline {section}{\numberline {3.6}OCR - Text recognition}{42}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Google Vision OCR}{43}{section.3.7}%
+\contentsline {section}{\numberline {3.8}The overall framework}{43}{section.3.8}%
+\contentsline {chapter}{\numberline {4}Experiment}{45}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Implementation}{45}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Experimental setup}{47}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Dataset}{47}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Data collection}{47}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Label creation}{48}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Synthetic dataset}{50}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Evaluation metrics}{51}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Quantitative evaluation}{52}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Qualitative evaluation}{53}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Evaluation of OCR}{54}{subsection.4.4.3}%
+\contentsline {chapter}{\numberline {5}Results \& Discussion}{55}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Results of GAN}{55}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Quantitative results}{55}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Qualitative results}{58}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Results of OCR}{62}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Evaluation using Google Vision OCR}{63}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Evaluation using the proposed OCR}{64}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Comparison of OCR engines}{65}{subsection.5.2.3}%
+\contentsline {chapter}{\numberline {6}Conclusion}{67}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary}{67}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Limitations}{69}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future works}{69}{section.6.3}%
+\contentsline {chapter}{Bibliography}{}{chapter*.74}%
